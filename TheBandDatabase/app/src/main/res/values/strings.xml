@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Campus Sustainability Guidebook</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>Wetlands</item>
+        <item>Green Buildings</item>
+        <item>Campus Grounds</item>
+        <item>Stormwater Management</item>
+    </string-array>
+
+    <string-array name="descriptions">\
+        <item>Check out the campus blog Integrate It! and the Campus Calendar for the latest information about sustainability activities on campus and in our community.  Join our bi-weekly Sustainability Opportunities e-newsletter for articles and updates!</item>
+        <item>We protect and continue to restore a 58-acre wetland that is one of the biggest floodplain restoration projects completed in the Pacific Northwest in conjunction with UW Bothell. Cascadia classes use the wetland as a living laboratory to study water quality, botany, ecology and wildlife biology. Cascadia students have done wetland stormwater sampling!</item>
+        <item>Our Global Learning and the Arts building (CC3) achieved Leadership in Energy and Environmental Design (LEED) Platinum  standard for environmental sustainability and we produce clean, renewable energy via solar panels located on our parking garages and rooftops.</item>
+        <item>Our Campus is a secondary permitee under the Western Washington Phase II Municipal Stormwater Plan.  We manage stormwater with rain gardens, green stormwater infrastructure, signage and education, and working with
+our 58-acre restored wetland management!  You can see many of our projects by visiting the campus, or photos on our social media!</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
